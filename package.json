@@ -1,0 +1,17 @@
+{
+  "name": "nuxt-edge-extract-css",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "NODE_ENV=development nuxt",
+    "build": "NODE_ENV=production nuxt build",
+    "start": "NODE_ENV=production nuxt start"
+  },
+  "keywords": [],
+  "author": "Alexander Lichter <npm@lichter.io>",
+  "license": "ISC",
+  "dependencies": {
+    "nuxt-edge": "^2.0.0-25375479.ba18127"
+  }
+}
