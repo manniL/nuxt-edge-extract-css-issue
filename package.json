@@ -12,6 +12,6 @@
   "author": "Alexander Lichter <npm@lichter.io>",
   "license": "ISC",
   "dependencies": {
-    "nuxt-edge": "^2.0.0-25406389.db572a2"
+    "nuxt-edge": "^2.0.0-25414361.b4a4a55"
   }
 }
