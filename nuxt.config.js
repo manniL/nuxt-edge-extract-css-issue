@@ -1,5 +1,4 @@
 export default {
-
   build: {
     extractCSS: true,
     optimization: {
